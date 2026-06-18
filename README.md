@@ -1,8 +1,12 @@
-# Attendance Calculator
+# 📅 Attendance Calculator
 
-A small web app to check your attendance percentage and find out how many classes you can skip or need to attend to hit your target.
+A simple web app to check your attendance percentage and find out how many classes you can skip or need to attend to hit your target.
 
-## Formula
+## Repository
+
+📁 [https://github.com/ShaswatRatna/attendance-tracker](https://github.com/ShaswatRatna/attendance-tracker)
+
+## Formula Used
 
 ```
 Attendance % = 100 - (((Total Absent - OAA) / Total Lectures) * 100)
@@ -15,10 +19,17 @@ Attendance % = 100 - (((Total Absent - OAA) / Total Lectures) * 100)
 - If you're safe, tells you how many more classes you can miss
 - If you're below target, tells you how many classes you need to attend in a row to recover
 
-## How to use
+## How to Use
 
-Open `index.html` in your browser, fill in the numbers, hit Calculate.
+1. Open `index.html` in your browser
+2. Enter your target %, total lectures, total absent, and OAA
+3. Click **Calculate**
 
-## Built with
+## Tech Stack
 
-HTML, CSS, JavaScript. No frameworks, no backend, just one file.
+- HTML, CSS, Vanilla JavaScript
+- Single file — no dependencies, no installation
+
+## License
+
+MIT
