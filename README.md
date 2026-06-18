@@ -6,6 +6,10 @@ A simple web app to check your attendance percentage and find out how many class
 
 📁 [https://github.com/ShaswatRatna/attendance-tracker](https://github.com/ShaswatRatna/attendance-tracker)
 
+Live Demo
+
+🌐 https://shaswatratna.github.io/attendance-tracker
+
 ## Formula Used
 
 ```
